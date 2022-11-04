@@ -61,7 +61,6 @@
                                         <limit>
                                             <counter>LINE</counter>
                                             <value>COVEREDRATIO</value>
-
                                         </limit>
                                     </limits>
                                 </rule>
