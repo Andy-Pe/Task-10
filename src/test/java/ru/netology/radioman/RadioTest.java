@@ -7,6 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class RadioTest {
 
+
     @Test
     public void shouldSetQuantityRadioStation() {
         Radio service = new Radio(10);
@@ -38,7 +39,7 @@ class RadioTest {
         Assertions.assertEquals(expected, actual);
 
     }
-    
+
 
     @Test
     public void shouldSwitchToPrevStation() {
