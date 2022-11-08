@@ -75,7 +75,6 @@ public class Radio {
             currentRadioStation = currentRadioStation + 1;
 
         }
-
     }
 
     public void reduceRadioStation() {
@@ -84,6 +83,5 @@ public class Radio {
 
         }
     }
-
 }
 
