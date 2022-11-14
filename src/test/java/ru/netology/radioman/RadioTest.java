@@ -18,7 +18,6 @@ class RadioTest {
         int actual = service.getCurrentRadioStation();
 
         Assertions.assertEquals(expected, actual);
-
     }
 
     @Test
