@@ -19,7 +19,6 @@ public class Radio {
         this.amountRadioStation = minRadioStation + size;
     }
 
-
     public int getCurrentRadioStation() {
 
         return currentRadioStation;
